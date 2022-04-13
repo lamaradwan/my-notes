@@ -20,4 +20,4 @@ Here is a quote that I liked from the article:
 > If you can’t explain something in simple terms, you don’t understand it. — Richard Feynman
 
 ### There is a good book inside the article They recommend to read: It's *Code Simplicity* by *Max Kanat Alexandar*
-[![Code Simplicity Book](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435713335l/18912511._SX318_.jpg)]]
+![Code Simplicity Book](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435713335l/18912511._SX318_.jpg)
